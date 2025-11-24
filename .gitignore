@@ -1,0 +1,24 @@
+# Sensitive and runtime files
+.env
+.env.*
+var/
+real_time_monitoring/temp/
+historical_data/logs/
+historical_data/archives/*.tmp
+historical_data/archives/*.lock
+*.log
+sync_state.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
