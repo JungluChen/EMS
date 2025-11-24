@@ -1,0 +1,8 @@
+id,ts,data
+1,2025-11-24T15:34:20,{"line": "生產線1", "shift": "早班", "work_order": "", "temperature": 19.1, "current": 0.0}
+2,2025-11-24T15:34:20,{"line": "生產線1", "shift": "早班", "work_order": "", "temperature": 19.1, "current": 0.0}
+3,2025-11-24T15:34:21,{"line": "生產線1", "shift": "早班", "work_order": "", "temperature": 19.0, "current": 0.0}
+4,2025-11-24T15:34:21,{"line": "生產線1", "shift": "早班", "work_order": "", "temperature": 19.2, "current": 0.0}
+5,2025-11-24T15:34:22,{"line": "生產線1", "shift": "早班", "work_order": "", "temperature": 19.2, "current": 0.0}
+6,2025-11-24T15:34:22,{"line": "生產線1", "shift": "早班", "work_order": "", "temperature": 19.0, "current": 0.0}
+7,2025-11-24T15:34:23,{"line": "生產線1", "shift": "早班", "work_order": "", "temperature": 19.2, "current": 0.0}
